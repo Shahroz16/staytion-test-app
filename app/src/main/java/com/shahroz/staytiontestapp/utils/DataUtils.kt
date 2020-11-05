@@ -1,4 +1,4 @@
-package com.shahroz.staytiontestapp.Utils
+package com.shahroz.staytiontestapp.utils
 
 import com.shahroz.staytiontestapp.model.ActionResponse
 import com.google.gson.Gson

@@ -2,7 +2,7 @@ package com.shahroz.staytiontestapp.data
 
 import android.util.Log
 import com.google.gson.Gson
-import com.shahroz.staytiontestapp.Utils.DataUtils
+import com.shahroz.staytiontestapp.utils.DataUtils
 import com.shahroz.staytiontestapp.model.ActionResponse
 import com.shahroz.staytiontestapp.model.Response
 import kotlinx.coroutines.flow.MutableStateFlow
