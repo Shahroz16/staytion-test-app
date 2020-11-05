@@ -1,9 +1,9 @@
 package com.shahroz.staytiontestapp.Utils
 
-import com.shahroz.staytiontestapp.Model.ActionResponse
+import com.shahroz.staytiontestapp.model.ActionResponse
 import com.google.gson.Gson
 import com.shahroz.staytiontestapp.Request
-import com.shahroz.staytiontestapp.Model.Response
+import com.shahroz.staytiontestapp.model.Response
 
 object DataUtils {
     fun requestToJSON(request: Request): String = Gson().toJson(request)

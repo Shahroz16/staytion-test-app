@@ -4,8 +4,8 @@ import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
-import com.shahroz.staytiontestapp.Model.ActionResponse
-import com.shahroz.staytiontestapp.Model.Response
+import com.shahroz.staytiontestapp.model.ActionResponse
+import com.shahroz.staytiontestapp.model.Response
 import com.shahroz.staytiontestapp.Request
 import com.shahroz.staytiontestapp.repository.Repository
 

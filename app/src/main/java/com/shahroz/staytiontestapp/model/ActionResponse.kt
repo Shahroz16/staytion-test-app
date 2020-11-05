@@ -1,4 +1,4 @@
-package com.shahroz.staytiontestapp.Model
+package com.shahroz.staytiontestapp.model
 
 data class ActionResponse(
     val id: Int,

@@ -3,8 +3,8 @@ package com.shahroz.staytiontestapp.data
 import android.util.Log
 import com.google.gson.Gson
 import com.shahroz.staytiontestapp.Utils.DataUtils
-import com.shahroz.staytiontestapp.Model.ActionResponse
-import com.shahroz.staytiontestapp.Model.Response
+import com.shahroz.staytiontestapp.model.ActionResponse
+import com.shahroz.staytiontestapp.model.Response
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import okhttp3.OkHttpClient

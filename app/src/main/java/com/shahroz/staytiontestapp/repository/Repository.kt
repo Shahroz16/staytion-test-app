@@ -1,8 +1,8 @@
 package com.shahroz.staytiontestapp.repository
 
-import com.shahroz.staytiontestapp.Model.ActionResponse
+import com.shahroz.staytiontestapp.model.ActionResponse
 import com.shahroz.staytiontestapp.Request
-import com.shahroz.staytiontestapp.Model.Response
+import com.shahroz.staytiontestapp.model.Response
 import com.shahroz.staytiontestapp.data.WebSocketChannel
 import com.shahroz.staytiontestapp.data.WebSocketChannelInterface
 import kotlinx.coroutines.flow.StateFlow
