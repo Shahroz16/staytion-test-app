@@ -10,6 +10,10 @@ is modular enough. All of the backend integration with views has been added.
 - `Flow`for asynchronous data streaming within the application
 - `Okhttp WebSocket` for a non-blocking interface to a web socket
 
+## Improvements 
+If I had more time, I would have focused more on UI and added Unit test cases. Also, hardcoded a couple of values which should 
+have been either `enums` or `constants`
+
 ## Demo video 
 
 [sample video](demo.mov)
