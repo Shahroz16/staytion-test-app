@@ -9,6 +9,7 @@ is modular enough. All of the backend integration with views has been added.
 - `Coroutines` are used for asynchronous communication with the backend
 - `Flow`for asynchronous data streaming within the application
 - `Okhttp WebSocket` for a non-blocking interface to a web socket
+- `Dagger Hilt` for dependency injection
 
 ## Improvements 
 If I had more time, I would have focused more on UI and added Unit test cases. Also, hardcoded a couple of values which should 
